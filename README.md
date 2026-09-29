@@ -1,2 +1,7 @@
-# jingdong-waiting-feedback-updates
-Encrypted runtime updates for the JD waiting-feedback workbench
+# 待反馈扩展公开更新文件
+
+此仓库只存放加密的扩展运行包、公开版本索引和首次安装程序；不包含私有源码或解密密钥。安装者仍可查看本机解密后的扩展运行文件。
+
+当前首次安装入口是 `bootstrap/v2/`。`bootstrap/v1/` 在 Windows 首装验证中失败，保留用于追溯，**请勿使用**。首次安装命令中的共享密钥只由维护者私下交付，不应发布到此仓库或公开讨论区。
+
+`latest.json` 指向当前加密运行包。扩展更新由用户在插件内主动点击，首次安装后仍需用户在 Chrome 中手动加载已解压的扩展程序。
