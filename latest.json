@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "extensionId": "fjmkhpmmfmekfhffkgjgjcnmgkhblcfj",
-  "packagePath": "releases/v1.8.4/extension.zip.enc",
-  "zipSha256": "ee369453be21e320cd489ca79250f6330dff98f2c453dbf91a567327af1e8dfe",
-  "cipherSha256": "02a0dbad007c6001e47e8c0fbee20d42f2663f956a6f310ad3eefbfc97b14ab0"
+  "packagePath": "releases/v1.8.5/extension.zip.enc",
+  "zipSha256": "dd2dfcbfe028b09001ef60e78ec4e720ddb678e99f4fe57372aff56e692747d3",
+  "cipherSha256": "99388df298a6eee2e2c679c0f6caa09d6a79c290b1680aff54cd65b277937805"
 }
